@@ -1,2 +1,1 @@
-# Hi!
-## I'm Josh 
+# Hi! I'm Josh.
