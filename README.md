@@ -1,3 +1,4 @@
+#Hello, World!
+##I'm Josh, a chef & self-taught developer
 
-# Hi! I'm Josh.
-## I'm a front-end developer.
+I'm currently progressing through CS50 & CS50P.
