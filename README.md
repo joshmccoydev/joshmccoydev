@@ -1,4 +1,4 @@
-# Hello, World!
+# 👋 Hello, World!
 ## I'm Josh, a chef & self-taught developer.
 I'm currently progressing through:  
 CS50X - Introduction to Computer Science 👨‍💻  
