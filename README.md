@@ -11,6 +11,8 @@ React
 node.js
 Python
 SwiftUI
+Solidity
+Rust
 -->
 
 
