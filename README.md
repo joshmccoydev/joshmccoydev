@@ -13,11 +13,10 @@ Python
 SwiftUI
 Solidity
 Rust
+I'm currently progressing through:
+CS50X - Introduction to Computer Science 👨‍💻
+CS50P - Introduction to Programming with Python 🐍
+CS50W - Web Programming with Python and JavaScript 🕸️
 -->
-I'm currently progressing through:  
-CS50X - Introduction to Computer Science 👨‍💻  
-CS50P - Introduction to Programming with Python 🐍  
-CS50W - Web Programming with Python and JavaScript 🕸️  
-
 
    
