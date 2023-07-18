@@ -3,7 +3,7 @@ name: Work Stats Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
+    # Runs @ 2:24 UTC
     - cron: "42 2 * * *"
 
 jobs:
