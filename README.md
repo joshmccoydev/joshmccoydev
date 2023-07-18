@@ -20,3 +20,5 @@ CS50W - Web Programming with Python and JavaScript 🕸️
 -->
 
    
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
