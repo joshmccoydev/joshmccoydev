@@ -23,7 +23,7 @@ CS50W - Web Programming with Python and JavaScript 🕸️
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-150-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-210-blue)
 
 **🐱 My GitHub Data** 
 
@@ -95,5 +95,5 @@ Solidity                 1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/joshmccoydev/joshmccoydev/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2023 17:14:36 UTC
+ Last Updated on 18/07/2023 18:41:29 UTC
 <!--END_SECTION:waka-->
