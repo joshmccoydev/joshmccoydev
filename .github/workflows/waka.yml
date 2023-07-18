@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs every 4 hours
-    - cron: '0 */4 * * *'
+    # Runs as frequently as possible
+    - cron: '* * * * *'
   workflow_dispatch:
 
 jobs:
