@@ -1,5 +1,9 @@
 # 👋 Hello, World! 🌎
 ## I'm Josh, a chef & self-taught developer.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- I'm actively progressing through [roadmap.sh Full-Stack Developer roadmap](https://roadmap.sh/full-stack).  
 HTML
 CSS
