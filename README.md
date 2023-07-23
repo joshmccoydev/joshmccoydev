@@ -97,7 +97,7 @@ Solidity                 1 repo              ████░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/joshmccoydev/joshmccoydev/main/assets/bar_graph.png)
+<!-- ![Lines of Code chart](https://raw.githubusercontent.com/joshmccoydev/joshmccoydev/main/assets/bar_graph.png) -->
 
 
  Last Updated on 22/07/2023 18:38:49 UTC
