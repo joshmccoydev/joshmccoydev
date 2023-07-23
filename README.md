@@ -21,7 +21,7 @@ CS50W - Web Programming with Python and JavaScript 🕸️
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2019%20mins-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2019%20mins-blue) 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-205-blue)
 
@@ -35,7 +35,7 @@ CS50W - Web Programming with Python and JavaScript 🕸️
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 0 Private Repositories -->
  > 
 **I'm a Night 🦉** 
 
