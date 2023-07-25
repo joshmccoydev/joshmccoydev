@@ -21,7 +21,7 @@ CS50W - Web Programming with Python and JavaScript 🕸️
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2047%20mins-blue)
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-217-blue)
 
@@ -35,7 +35,7 @@ CS50W - Web Programming with Python and JavaScript 🕸️
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 0 Private Repositories -->
  > 
 **I'm a Night 🦉** 
 
@@ -94,11 +94,11 @@ Solidity                 1 repo              ████░░░░░░░�
 ```
 
 
-
+<!--
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/joshmccoydev/joshmccoydev/main/assets/bar_graph.png)
 
-
+-->
  Last Updated on 24/07/2023 18:40:49 UTC
 <!--END_SECTION:waka-->
