@@ -1,7 +1,7 @@
-# 👋 Hello, World! 🌎
+<!-- # 👋 Hello, World! 🌎
 ## I'm Josh, a chef & self-taught developer.
 
-<!-- I'm actively progressing through [roadmap.sh Full-Stack Developer roadmap](https://roadmap.sh/full-stack).  
+I'm actively progressing through [roadmap.sh Full-Stack Developer roadmap](https://roadmap.sh/full-stack).  
 HTML
 CSS
 JS
