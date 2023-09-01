@@ -23,7 +23,7 @@ CS50W - Web Programming with Python and JavaScript 🕸️
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -76,8 +76,8 @@ Ezhil                    0 secs              ░░░░░░░░░░░�
 VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-innkeeper                1 hr 53 mins        ██████████████░░░░░░░░░░░   55.26 % 
-Developer                1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   40.46 % 
+innkeeper                1 hr 53 mins        ██████████████░░░░░░░░░░░   55.27 % 
+Developer                1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   40.45 % 
 joshmccoy.dev            5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 notion                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
@@ -102,5 +102,5 @@ Solidity                 1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/joshmccoydev/joshmccoydev/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2023 18:39:18 UTC
+ Last Updated on 01/09/2023 18:39:24 UTC
 <!--END_SECTION:waka-->
