@@ -20,7 +20,7 @@ I'm currently progressing through:
 CS50X - Introduction to Computer Science 👨‍💻
 CS50P - Introduction to Programming with Python 🐍
 CS50W - Web Programming with Python and JavaScript 🕸️
-
+-->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2052%20mins-blue)
