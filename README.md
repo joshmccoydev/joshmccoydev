@@ -66,18 +66,16 @@ Sunday                   119 commits         █████░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               1 hr 52 mins        █████████████████████████   99.45 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-innkeeper                1 hr 53 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -96,5 +94,5 @@ Solidity                 1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/joshmccoydev/joshmccoydev/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2023 18:39:22 UTC
+ Last Updated on 07/09/2023 18:39:10 UTC
 <!--END_SECTION:waka-->
