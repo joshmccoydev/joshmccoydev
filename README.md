@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 145.8 kB Used in GitHub's Storage 
  > 
-> 🏆 295 Contributions in the Year 2023
+> 🏆 294 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -70,5 +70,5 @@ Solidity                 1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/joshmccoydev/joshmccoydev/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2023 18:39:21 UTC
+ Last Updated on 21/10/2023 18:38:52 UTC
 <!--END_SECTION:waka-->
