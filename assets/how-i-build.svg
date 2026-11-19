@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 148" role="img">
+  <title>Look first. Build small. A person on the switch.</title>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+    <g>
+      <rect width="309" height="148" rx="16" fill="#18181b" stroke="#52525b" stroke-width="1.5"/>
+      <text x="24" y="46" fill="#c6ff3d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="14" letter-spacing="1.4">01</text>
+      <text x="24" y="96" fill="#ededef" font-size="28" font-weight="600">Look first</text>
+    </g>
+    <g transform="translate(325,0)">
+      <rect width="309" height="148" rx="16" fill="#18181b" stroke="#52525b" stroke-width="1.5"/>
+      <text x="24" y="46" fill="#c6ff3d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="14" letter-spacing="1.4">02</text>
+      <text x="24" y="96" fill="#ededef" font-size="28" font-weight="600">Build small</text>
+    </g>
+    <g transform="translate(651,0)">
+      <rect width="309" height="148" rx="16" fill="#18181b" stroke="#52525b" stroke-width="1.5"/>
+      <text x="24" y="46" fill="#c6ff3d" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="14" letter-spacing="1.4">03</text>
+      <text x="24" y="96" fill="#ededef" font-size="28" font-weight="600">On the switch</text>
+    </g>
+  </g>
+</svg>
